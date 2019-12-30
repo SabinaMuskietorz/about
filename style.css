@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.allaboutme:hover{
+    filter: grayscale(1);
+    border-style: none;
+    border-radius: 100%;
+    transition: background-size 0.3s ease;
+    filter: grayscale(1);
+    transition: background-size 0.3s ease; 
+}
+ body {
+    background-color:#ffaf49;
+    font-family: 'Roboto Slab', serif;
+  }
